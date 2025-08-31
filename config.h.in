@@ -172,7 +172,7 @@
 #undef PACKAGE_VERSION
 
 /* Define to 1 if you have the ANSI C header files. */
-#undef STDC_HEADERS
+#define STDC_HEADERS 1
 
 /* Define to 1 if on AIX 3.
    System headers sometimes define this.

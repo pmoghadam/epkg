@@ -23,6 +23,7 @@
 # include <unistd.h>
 #endif
 
+#include <pathcode/encap_pathcode.h>
 
 /* global variables */
 char source[MAXPATHLEN] = DEFAULT_SOURCE;

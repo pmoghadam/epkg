@@ -24,6 +24,7 @@
 # include <unistd.h>
 #endif
 
+#include <ctype.h>
 
 #ifdef HAVE_LIBEXPAT
 
